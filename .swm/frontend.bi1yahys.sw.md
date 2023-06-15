@@ -5,9 +5,13 @@ file_version: 1.1.2
 app_version: 1.10.3
 ---
 
+[djdd](https://swimm-web-app.web.app/workspaces/mv2fxkk3cvcjEfSEo9pw/repos/Z2l0aHViJTNBJTNBZmxhc2slM0ElM0FuYWRhdi1zd2ltbQ==/branch/main/docs/bi1yahys/edit#heading-Z1Q1vCR)
+
+learn more [here](https://swimm-web-app.web.app/workspaces/mv2fxkk3cvcjEfSEo9pw/repos/Z2l0aHViJTNBJTNBZmxhc2slM0ElM0FuYWRhdi1zd2ltbQ==/branch/main/docs/bi1yahys/edit#heading-Z1Q1vCR)
+
 ## Testing the frontend
 
-## How the frontend interacts with the backend
+## How the frontend interacts with the [backend](https://swimm-web-app.web.app/workspaces/mv2fxkk3cvcjEfSEo9pw/repos/Z2l0aHViJTNBJTNBZmxhc2slM0ElM0FuYWRhdi1zd2ltbQ==/branch/main/docs/bi1yahys/edit#heading-Z1Q1vCR)
 
 # Common issues in the frontend
 
@@ -21,12 +25,6 @@ Finally, make sure to follow the file structure and conventions used in the fron
 
 <br/>
 
-
-
-<br/>
-
-<br/>
-
 <br/>
 
 <br/>
@@ -36,43 +34,18 @@ Finally, make sure to follow the file structure and conventions used in the fron
 The frontend follows a set of conventions to ensure consistency and maintainability of the codebase. These conventions include:
 
 *   **File structure**: The frontend code is organized into different folders based on their functionality. The `src` folder contains the main source code, while the `public` folder contains static assets like images and fonts.
-
-<br/>
-
-
-
 <br/>
 
 *   **Naming conventions**: The frontend uses a specific naming convention for files and folders to ensure consistency and ease of maintenance.
-
-<br/>
-
-
-
 <br/>
 
 *   **Code style**: The frontend follows a specific code style to ensure consistency and readability of the codebase.
-
-<br/>
-
-
-
 <br/>
 
 *   **Testing**: The frontend code is thoroughly tested to ensure that it works as expected and to catch any bugs or issues early on.
-
-<br/>
-
-
-
 <br/>
 
 *   **Documentation**: The frontend code is well-documented to ensure that other developers can easily understand and work with the codebase.
-
-<br/>
-
-
-
 <br/>
 
 <br/>
