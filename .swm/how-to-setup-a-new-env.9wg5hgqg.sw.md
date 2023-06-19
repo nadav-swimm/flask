@@ -7,8 +7,6 @@ app_version: 1.11.0
 
 # File Structure of a New Environment
 
-<br/>
-
 The file structure of a new environment in our repo follows a specific convention to ensure consistency and ease of maintenance.
 
 The root directory of the environment contains several files and folders that are essential for the environment to function properly. These include:
@@ -49,21 +47,6 @@ When the user sets the environment variable `FLASK_SKIP_DOTENV` to `True`, the f
 
 <br/>
 
-
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 src/flask/helpers.py
-```python
-102        try:
-103            gen = iter(generator_or_function)  # type: ignore
-104        except TypeError:
-105    
-106            def decorator(*args: t.Any, **kwargs: t.Any) -> t.Any:
-```
-
-<br/>
-
-<br/>
-
 ## How to check if loading dotenv files is disabled
 
 To check if the user has disabled loading dotenv files by setting `FLASK_SKIP_DOTENV`, use the `get_load_dotenv()` function from `src/flask/helpers.py`. This function returns a boolean value indicating whether the user has disabled loading dotenv files or not.
@@ -101,8 +84,6 @@ This code snippet checks if `_scheme` is not `None`, and if `_external` is `Fals
 <br/>
 
 For more advanced usage examples and edge cases, refer to the 'Our X API' or 'X API Overview' sections of the internal API document.
-
-<br/>
 
 <br/>
 
