@@ -45,27 +45,11 @@ By following this file structure convention, we ensure that all new environments
 
 When the user sets the environment variable `FLASK_SKIP_DOTENV` to `True`, the function `get_load_dotenv()` returns `False`, which disables the loading of dotenv files. By default, `get_load_dotenv()` returns `True`, which enables the loading of dotenv files.
 
-<br/>
-
 ## How to check if loading dotenv files is disabled
 
 To check if the user has disabled loading dotenv files by setting `FLASK_SKIP_DOTENV`, use the `get_load_dotenv()` function from `src/flask/helpers.py`. This function returns a boolean value indicating whether the user has disabled loading dotenv files or not.
 
 [Helpers](https://swimm-web-app.web.app/workspaces/H0nYogF29jh747xcua9g/repos/Z2l0aHViJTNBJTNBZmxhc2slM0ElM0FuYWRhdi1zd2ltbQ==/branch/main/docs/9wg5hgqg/edit#heading-ukgUh)
-
-<br/>
-
-This code initializes a generator object `wrapped_g` and calls its first iteration using the `next()` function.
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 src/flask/helpers.py
-```python
-138        wrapped_g = generator()
-139        next(wrapped_g)
-```
-
-<br/>
-
-Here's an example of how to use the `get_load_dotenv()` function:
 
 <br/>
 
@@ -82,6 +66,18 @@ This code snippet checks if `_scheme` is not `None`, and if `_external` is `Fals
 ```
 
 <br/>
+
+This code initializes a generator object `wrapped_g` and calls its first iteration using the `next()` function.
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 src/flask/helpers.py
+```python
+138        wrapped_g = generator()
+139        next(wrapped_g)
+```
+
+<br/>
+
+Here's an example of how to use the `get_load_dotenv()` function:
 
 For more advanced usage examples and edge cases, refer to the 'Our X API' or 'X API Overview' sections of the internal API document.
 
