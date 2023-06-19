@@ -9,11 +9,7 @@ app_version: 1.11.0
 
 <br/>
 
-<br/>
-
 The file structure of a new environment in our repo follows a specific convention to ensure consistency and ease of maintenance.
-
-<br/>
 
 The root directory of the environment contains several files and folders that are essential for the environment to function properly. These include:
 
@@ -28,6 +24,8 @@ The root directory of the environment contains several files and folders that ar
 *   `tests/`: This folder contains all the unit tests for the environment. The tests are organized into subfolders based on the functionality they test, with each subfolder containing its own `__init__.py` file.
 
 ## Helpers
+
+[here](https://swimm-web-app.web.app/workspaces/H0nYogF29jh747xcua9g/repos/Z2l0aHViJTNBJTNBZmxhc2slM0ElM0FuYWRhdi1zd2ltbQ==/branch/main/docs/9wg5hgqg/edit#snippet-245yuT)
 
 <br/>
 
@@ -70,6 +68,8 @@ When the user sets the environment variable `FLASK_SKIP_DOTENV` to `True`, the f
 
 To check if the user has disabled loading dotenv files by setting `FLASK_SKIP_DOTENV`, use the `get_load_dotenv()` function from `src/flask/helpers.py`. This function returns a boolean value indicating whether the user has disabled loading dotenv files or not.
 
+[Helpers](https://swimm-web-app.web.app/workspaces/H0nYogF29jh747xcua9g/repos/Z2l0aHViJTNBJTNBZmxhc2slM0ElM0FuYWRhdi1zd2ltbQ==/branch/main/docs/9wg5hgqg/edit#heading-ukgUh)
+
 <br/>
 
 This code initializes a generator object `wrapped_g` and calls its first iteration using the `next()` function.
@@ -101,10 +101,6 @@ This code snippet checks if `_scheme` is not `None`, and if `_external` is `Fals
 <br/>
 
 For more advanced usage examples and edge cases, refer to the 'Our X API' or 'X API Overview' sections of the internal API document.
-
-<br/>
-
-<br/>
 
 <br/>
 
