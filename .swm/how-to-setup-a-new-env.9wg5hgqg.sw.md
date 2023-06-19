@@ -43,7 +43,21 @@ By following this file structure convention, we ensure that all new environments
 
 ## What happens when FLASK\_SKIP\_DOTENV is set to True
 
-When the user sets the environment variable `FLASK_SKIP_DOTENV` to `True`, the function `get_load_dotenv()` returns `False`, which disables the loading of dotenv files. By default, `get_load_dotenv()` returns `True`, which enables the loading of dotenv files.
+When the user sets the environment variable FLASK\_SKIP\_DOTENV to True, the function get\_load\_dotenv() returns False, which disables the loading of dotenv files. By default, get\_load\_dotenv() returns True, which enables the loading of dotenv files.
+
+To further elaborate, the loading of dotenv files can be useful for configuring the application's environment variables. In fact, it is highly recommended to load dotenv files for better management of environment variables.
+
+# Conventions to Follow When Setting up a New Environment
+
+When setting up a new environment, there are certain conventions that should be followed to ensure consistency across the codebase. These conventions include:
+
+*   **Loading dotenv files**: To determine whether the user has disabled loading dotenv files by setting `FLASK_SKIP_DOTENV`, the `get_load_dotenv` function from `src/flask/helpers.py` is used.
+*   **Specifying URL schemes**: When specifying `_scheme`, `_external` must be set to `True`. If `_external` is not set to `True`, a `ValueError` will be raised. The `url_adapter.url_scheme` attribute is used to set the URL scheme.
+*   **Using generators**: Generators are used in the codebase, and the `next` function is used to advance the generator to the next yield statement.
+
+By following these conventions, the codebase remains consistent and easy to maintain.
+
+<br/>
 
 ## How to check if loading dotenv files is disabled
 
