@@ -10,6 +10,7 @@ app_version: 1.13.13
 2. [something new](something-new.wamvycpp.sw.md)
 3. [[Features] my feature](features-my-feature.q05jh5tr.sw.md)
 4. [[Other] something else](other-something-else.0z77ng3q.sw.md)
+5. [Testing a pending playlist](testing-a-pending-playlist.iqudzhiv.pl.sw.md)
 
 
 <br/>
