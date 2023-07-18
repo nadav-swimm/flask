@@ -8,8 +8,8 @@ app_version: 1.13.13
 <!-- Steps - Do not remove this comment -->
 1. [boo](boo.ion4l.sw.md)
 2. [something new](something-new.wamvycpp.sw.md)
-3. [a page with ]](a-page-with.9tz25rrr.sw.md)]
-4. [[something] breaks?](something-breaks.rhxh5zas.sw.md)
+3. [a page with ](a-page-with.9tz25rrr.sw.md)
+5. [[something] breaks?](something-breaks.rhxh5zas.sw.md)
 
 
 <br/>
