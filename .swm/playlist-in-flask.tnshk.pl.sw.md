@@ -1,13 +1,14 @@
 ---
 id: tnshk
-name: playlist in flask
-file_version: 1.1.0
-app_version: 1.0.6
+title: playlist in flask
+file_version: 1.1.3
+app_version: 1.13.13
 ---
 
 <!-- Steps - Do not remove this comment -->
 1. [boo](boo.ion4l.sw.md)
-2. [about pandas ](https://app.swimm.io/repos/Z2l0aHViJTNBJTNBcGFuZGFzJTNBJTNBbmFkYXYtc3dpbW0=/docs/9x3gj)
+2. [something new](something-new.wamvycpp.sw.md)
+3. [a page with ]](a-page-with.9tz25rrr.sw.md)]
 
 
 <br/>
