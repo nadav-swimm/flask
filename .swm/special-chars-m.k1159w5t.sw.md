@@ -1,6 +1,6 @@
 ---
 id: k1159w5t
-title: doc 1
+title: special chars @#$%$👎[]=---><M?/
 file_version: 1.1.3
 app_version: 1.13.13
 ---

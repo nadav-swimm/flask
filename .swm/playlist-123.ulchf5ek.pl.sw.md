@@ -6,7 +6,10 @@ app_version: 1.13.13
 ---
 
 <!-- Steps - Do not remove this comment -->
-1. [doc 1](doc-1.k1159w5t.sw.md)
+1. [function bla(a, b);](function-blaa-b.rt5o6ia3.sw.md)
+2. [class new boo{}](class-new-boo.gpxqf7gg.sw.md)
+3. [special chars @#$%$👎[]=---><M?/](special-chars-m.k1159w5t.sw.md)
+4. [<BaseClass> ](baseclass.m1v69ck9.sw.md)
 
 
 <br/>
