@@ -7,6 +7,32 @@ app_version: 1.13.13
 
 "Smart Tokens" refers to either **tokens** or **paths** that are being tracked and synced. They help you keep your documentation up to date by allowing you to reference parts of your code. The most common use is referencing **variable**, **method**, or **function** names within the document.
 
+<br/>
+
+<br/>
+
+<!--MERMAID {width:100}-->
+```mermaid
+
+```
+<!--MCONTENT {content: "<br/>"} --->
+
+<br/>
+
+<br/>
+
+<br/>
+
+<!--MERMAID {width:100}-->
+```mermaid
+sequenceDiagram
+
+
+```
+<!--MCONTENT {content: "sequenceDiagram<br/>\n\n<br/>"} --->
+
+<br/>
+
 ## Example
 
 > We have created a `Template`<swm-token data-swm-token="dummy-repo:examples/vanilla-es6/src/template.js:5:6:6:`export default class Template {`"/> _class_ to handle the main view that renders the contents.<br/>
@@ -22,9 +48,8 @@ pie title Pets adopted by volunteers
 "Cats" : 85
 "Rats" : 15
 
-
 ```
-<!--MCONTENT {content: "pie title Pets adopted by volunteers<br/>\n\"Dogs\" : 386<br/>\n\"Cats\" : 85<br/>\n\"Rats\" : 15\n\n<br/>"} --->
+<!--MCONTENT {content: "pie title Pets adopted by volunteers<br/>\n\"Dogs\" : 386<br/>\n\"Cats\" : 85<br/>\n\"Rats\" : 15<br/>\n<br/>"} --->
 
 <br/>
 
