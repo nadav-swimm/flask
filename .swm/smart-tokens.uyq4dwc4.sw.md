@@ -7,8 +7,6 @@ app_version: 1.13.13
 
 "Smart Tokens" refers to either **tokens** or **paths** that are being tracked and synced. They help you keep your documentation up to date by allowing you to reference parts of your code. The most common use is referencing **variable**, **method**, or **function** names within the document.
 
-<br/>
-
 ## Example
 
 > We have created a `Template`<swm-token data-swm-token="dummy-repo:examples/vanilla-es6/src/template.js:5:6:6:`export default class Template {`"/> _class_ to handle the main view that renders the contents.<br/>
@@ -19,16 +17,14 @@ app_version: 1.13.13
 
 <!--MERMAID {width:100}-->
 ```mermaid
-graph TD
-A[Christmas] -->|Get money| B(Go shopping)
-B --> C{Let me think}
-C -->|One| D[Laptop]
-C -->|Two| E[iPhone]
-C -->|Three| F[fa:fa-car Car]
+pie title Pets adopted by volunteers
+"Dogs" : 386
+"Cats" : 85
+"Rats" : 15
 
 
 ```
-<!--MCONTENT {content: "graph TD<br/>\nA\\[Christmas\\] \\-\\-\\>|Get money| B(Go shopping)<br/>\nB \\-\\-\\> C{Let me think}<br/>\nC \\-\\-\\>|One| D\\[Laptop\\]<br/>\nC \\-\\-\\>|Two| E\\[iPhone\\]<br/>\nC \\-\\-\\>|Three| F\\[fa:fa-car Car\\]<br/>\n\n<br/>"} --->
+<!--MCONTENT {content: "pie title Pets adopted by volunteers<br/>\n\"Dogs\" : 386<br/>\n\"Cats\" : 85<br/>\n\"Rats\" : 15\n\n<br/>"} --->
 
 <br/>
 
