@@ -2,16 +2,35 @@
 id: uyq4dwc4
 title: Smart tokens
 file_version: 1.1.3
-app_version: 1.12.12
+app_version: 1.13.13
 ---
 
 "Smart Tokens" refers to either **tokens** or **paths** that are being tracked and synced. They help you keep your documentation up to date by allowing you to reference parts of your code. The most common use is referencing **variable**, **method**, or **function** names within the document.
+
+<br/>
 
 ## Example
 
 > We have created a `Template`<swm-token data-swm-token="dummy-repo:examples/vanilla-es6/src/template.js:5:6:6:`export default class Template {`"/> _class_ to handle the main view that renders the contents.<br/>
 > Our `View`<swm-token data-swm-token="dummy-repo:examples/vanilla-es6/src/view.js:9:6:6:`export default class View {`"/> _class_ emulates the rendering of a `Template`<swm-token data-swm-token="dummy-repo:examples/vanilla-es6/src/template.js:5:6:6:`export default class Template {`"/> and tracking the responsiveness.<br/>
 > The state of our app is managed by our own created `Store`<swm-token data-swm-token="dummy-repo:examples/vanilla-es6/src/store.js:3:6:6:`export default class Store {`"/>
+
+<br/>
+
+<!--MERMAID {width:100}-->
+```mermaid
+graph TD
+A[Christmas] -->|Get money| B(Go shopping)
+B --> C{Let me think}
+C -->|One| D[Laptop]
+C -->|Two| E[iPhone]
+C -->|Three| F[fa:fa-car Car]
+
+
+```
+<!--MCONTENT {content: "graph TD<br/>\nA\\[Christmas\\] \\-\\-\\>|Get money| B(Go shopping)<br/>\nB \\-\\-\\> C{Let me think}<br/>\nC \\-\\-\\>|One| D\\[Laptop\\]<br/>\nC \\-\\-\\>|Two| E\\[iPhone\\]<br/>\nC \\-\\-\\>|Three| F\\[fa:fa-car Car\\]<br/>\n\n<br/>"} --->
+
+<br/>
 
 ## Try it yourself!
 
