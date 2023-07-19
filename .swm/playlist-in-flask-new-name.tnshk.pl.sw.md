@@ -1,6 +1,6 @@
 ---
 id: tnshk
-title: playlist in flask
+title: "playlist in flask ( new name) "
 file_version: 1.1.3
 app_version: 1.13.13
 ---
@@ -8,8 +8,9 @@ app_version: 1.13.13
 <!-- Steps - Do not remove this comment -->
 1. [boo](boo.ion4l.sw.md)
 2. [something new](something-new.wamvycpp.sw.md)
-3. [[Features] my feature](features-my-feature.q05jh5tr.sw.md)
-4. [[Other] something else](other-something-else.0z77ng3q.sw.md)
+3. [🤓 Smart text](https://app.swimm.io/repos/dummy-repo/docs/fpz6g)
+4. [[Features] my feature](features-my-feature.q05jh5tr.sw.md)
+5. [[Other] something else](other-something-else.0z77ng3q.sw.md)
 
 
 <br/>
