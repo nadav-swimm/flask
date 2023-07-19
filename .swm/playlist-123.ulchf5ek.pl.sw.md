@@ -10,6 +10,7 @@ app_version: 1.13.13
 2. [class new boo{}](class-new-boo.gpxqf7gg.sw.md)
 3. [special chars @#$%$👎[]=---><M?/](special-chars-m.k1159w5t.sw.md)
 4. [<BaseClass> ](baseclass.m1v69ck9.sw.md)
+5. [doc in main](doc-in-main.wmr0o6jw.sw.md)
 
 
 <br/>
