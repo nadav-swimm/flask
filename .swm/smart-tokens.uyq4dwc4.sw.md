@@ -25,6 +25,37 @@ app_version: 1.13.13
 
 <!--MERMAID {width:100}-->
 ```mermaid
+graph TD
+A[Christmas] -->|Get money| B(Go shopping)
+B --> C{Let me think}
+C -->|One| D[Laptop]
+C -->|Two| E[`datetime`]
+C -->|Three| F[fa:fa-car Car]
+
+
+```
+<!--MCONTENT {content: "graph TD<br/>\nA\\[Christmas\\] \\-\\-\\>|Get money| B(Go shopping)<br/>\nB \\-\\-\\> C{Let me think}<br/>\nC \\-\\-\\>|One| D\\[Laptop\\]<br/>\nC \\-\\-\\>|Two| E\\[`datetime`<swm-token data-swm-token=\":src/flask/helpers.py:7:2:2:`from datetime import datetime`\"/>\\]<br/>\nC \\-\\-\\>|Three| F\\[fa:fa-car Car\\]<br/>\n\n<br/>"} --->
+
+<br/>
+
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 src/flask/helpers.py
+```python
+7      from datetime import datetime
+8      from functools import lru_cache
+9      from functools import update_wrapper
+10     from threading import RLock
+```
+
+<br/>
+
+<br/>
+
+<br/>
+
+<!--MERMAID {width:100}-->
+```mermaid
 sequenceDiagram
 
 

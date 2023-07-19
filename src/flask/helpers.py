@@ -4,7 +4,7 @@ import socket
 import sys
 import typing as t
 import warnings
-from datetime import datetime
+from datetim import datetime
 from functools import lru_cache
 from functools import update_wrapper
 from threading import RLock
