@@ -1,6 +1,6 @@
 ---
 id: l6grya9g
-title: QueryBase <something /> word 2
+title: new <something /> word 2
 file_version: 1.1.3
 app_version: 1.13.13
 ---
