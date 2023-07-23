@@ -13,7 +13,19 @@ In this technical document, we aim to provide an in-depth analysis of the latest
 
 [GenAI](genai.xh01k2pm.sw.md)
 
+[testing consequitivews snippets in view mode](testing-consequitivews-snippets-in-view-mode.8xe19.sw.md)
+
+[Swimm vs. other tools](swimm-vs-other-tools.4r0yk7em.sw.md)
+
 [pandas/doc in pandas](https://app.swimm.io/repos/Z2l0aHViJTNBJTNBcGFuZGFzJTNBJTNBbmFkYXYtc3dpbW0=/docs/49wlfdt2)
+
+aonther
+
+[Swimm vs. other tools](swimm-vs-other-tools.4r0yk7em.sw.md)
+
+[one`](one.7gclmr0w.sw.md)
+
+[frontend](frontend.bi1yahys.sw.md)
 
 <br/>
 
@@ -822,8 +834,6 @@ this is the large snippet
 <br/>
 
 something jjj
-
-<br/>
 
 One crucial aspect of NLP is sentiment analysis, which involves determining the emotional tone expressed in a piece of text. This analysis plays a significant role in areas like social media monitoring, customer feedback analysis, and brand reputation management. We will explore different approaches to sentiment analysis, including lexicon-based methods and machine learning models. Additionally, we will delve into the challenges faced in accurately capturing sentiment from text and discuss potential solutions to improve sentiment analysis accuracy.
 
