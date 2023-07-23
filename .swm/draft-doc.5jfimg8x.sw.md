@@ -9,6 +9,12 @@ Paragraph 1:
 
 In this technical document, we aim to provide an in-depth analysis of the latest advancements in machine learning algorithms for natural language processing (NLP). We will discuss various techniques used in NLP, such as tokenization, part-of-speech tagging, and named entity recognition, and their application in real-world scenarios. By understanding these concepts, readers will gain insights into how NLP algorithms can effectively process and understand human language, enabling them to develop intelligent systems and applications.
 
+[doc in main](doc-in-main.wmr0o6jw.sw.md)
+
+[GenAI](genai.xh01k2pm.sw.md)
+
+[pandas/doc in pandas](https://app.swimm.io/repos/Z2l0aHViJTNBJTNBcGFuZGFzJTNBJTNBbmFkYXYtc3dpbW0=/docs/49wlfdt2)
+
 <br/>
 
 Paragraph 2:
@@ -816,8 +822,6 @@ this is the large snippet
 <br/>
 
 something jjj
-
-<br/>
 
 <br/>
 
