@@ -9,17 +9,15 @@ app_version: 1.16.4
 
 <br/>
 
-<br/>
-
 <!--MERMAID {width:100}-->
 ```mermaid
 sequenceDiagram
 note over Editor: Remember current value
 Editor ->> Store: Update
 Store -->> Editor: Update flows back
-note over Editor: If the new value is the same<br />object as the saved current value:<br />Skip side effects
+note over Editor: If the new value is the same <br/>object as the saved current value: <br/>Skip side effects
 ```
-<!--MCONTENT {content: "sequenceDiagram<br/>\nnote over Editor: Remember current value<br/>\nEditor ->> Store: Update<br/>\nStore \\-\\-\\>> Editor: Update flows back<br/>\nnote over Editor: If the new value is the same<br />object as the saved current value:<br />Skip side effects"} --->
+<!--MCONTENT {content: "sequenceDiagram<br/>\nnote over Editor: Remember current value<br/>\nEditor ->> Store: Update<br/>\nStore \\-\\-\\>> Editor: Update flows back<br/>\nnote over Editor: If the new value is the same <br/>object as the saved current value: <br/>Skip side effects"} --->
 
 <br/>
 
