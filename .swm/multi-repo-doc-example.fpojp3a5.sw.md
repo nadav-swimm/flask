@@ -25,7 +25,7 @@ Moshik, this snippet you should see
 
 <br/>
 
-and this, you **should not** have access:
+and this is a public repo that you are not a member
 
 `isort`<swm-token data-swm-token="Z2l0aHViJTNBJTNBcGFuZGFzJTNBJTNBbmFkYXYtc3dpbW0=:requirements-dev.txt:14:0:0:`isort&gt;=5.2.1`"/>
 
@@ -41,6 +41,32 @@ and this, you **should not** have access:
 13     flake8-comprehensions==3.7.0
 14     isort>=5.2.1
 ```
+
+<br/>
+
+This is a private repo
+
+`generativeAI`<swm-token data-swm-token="Z2l0aHViJTNBJTNBZ2VuZXJhdGl2ZUFJJTNBJTNBbmFkYXYtc3dpbW0=:README.md:1:2:2:`# generativeAI`"/>
+
+<br/>
+
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+<!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBZ2VuZXJhdGl2ZUFJJTNBJTNBbmFkYXYtc3dpbW0=:: -->
+### 📄 README.md
+```markdown
+1      # generativeAI
+```
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
 
 <br/>
 
